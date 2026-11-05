@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add your sitemap URL after connecting the final domain.
